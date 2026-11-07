@@ -1,4 +1,4 @@
-#🎓 CampusBot — Description Technique
+🎓 #CampusBot  Description Technique
 📄 Présentation du Projet
 CampusBot est un assistant virtuel intelligent (FAQ universitaire) conçu pour automatiser les réponses aux questions fréquentes des étudiants (inscriptions, emplois du temps, frais d'scolarité, procédures administratives).
 
